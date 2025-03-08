@@ -1,3 +1,5 @@
+[![.NET](https://github.com/lyonb96/AutoSelector/actions/workflows/dotnet.yml/badge.svg)](https://github.com/lyonb96/AutoSelector/actions/workflows/dotnet.yml)
+
 # Welcome to Auto Selector!
 
 Hello, fellow Entity Framework users! I built this library because I got tired of manually rolling long Select statements, or maintaining code generators to write them for me. I wanted a way to declare what I wanted my models to look like, and map them by convention. I struggled to make AutoMapper work for me in this regard, and wanted something with minimal upfront setup, so I decided to roll my own.
